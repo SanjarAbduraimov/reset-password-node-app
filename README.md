@@ -1,4 +1,4 @@
-You need to set some environtment veriables to thi node app
+You need to set some environtment veriables to this node app
 1. DB_URL -- database connection string
 2. JWT_SECRET_KEY -- json web token secret key
 3. JWT_PASSWORD_SECRET_KEY -- json web token secret key for password temporary token
